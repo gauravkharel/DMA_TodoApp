@@ -1,6 +1,8 @@
 # Todoist
 ---
 
+## [Github Link](https://github.com/gauravkharel/DMA_TodoApp.git) ##
+
 <h2 align="center">
   Todoist: Todo App for the DMA Component 2. 
 </h2>
