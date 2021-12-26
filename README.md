@@ -69,12 +69,11 @@
 # `App Usage`
 ### ***1 Sign Up:*** By providing essentials credentianls, register as a user to the app.
 ### ***2 Login:*** Log in with the credentials used while Sign Up.
-##### ***3 Todo List:*** Click the (+) icon to add new task. You can input the Task Name and Date to completion.
-
-#### ***4 Update Tasks:*** Click the todo item to edit the task as required. 
-#### ***5 Delete the todo items and list:*** Delete the finished task by swiping the task widget to left/right.
-#### ***6 Logout :*** Logout from the toggle menu using Logout button. 
-#### ***7 More Info/Contact Details :*** From toggle, go to More where you find About App and Contact Details by toggling the menu.  
+### ***3 Todo List:*** Click the (+) icon to add new task. You can input the Task Name and Date to completion.
+### ***4 Update Tasks:*** Click the todo item to edit the task as required. 
+### ***5 Delete the todo items and list:*** Delete the finished task by swiping the task widget to left/right.
+### ***6 Logout :*** Logout from the toggle menu using Logout button. 
+### ***7 More Info/Contact Details :*** From toggle, go to More where you find About App and Contact Details by toggling the menu.  
 
 ---
 ---
