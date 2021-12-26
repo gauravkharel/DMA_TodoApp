@@ -117,12 +117,11 @@
 # `References`
 ## `Resources used to create this App`
 
-[Room persistance library](https://developer.android.com/topic/libraries/architecture/room)
-[Paint class holds the style and color information about how to draw geometries, text and bitmaps](https://developer.android.com/reference/android/graphics/Paint)
-[LayoutInflater](https://developer.android.com/reference/android/view/LayoutInflater)
-[Handling Lifecycles with Lifecycle-Aware Components](https://developer.android.com/topic/libraries/architecture/lifecycle)
-[Navigation Components](https://developer.android.com/guide/navigation/navigation-getting-started)
-[TypeConverter](https://developer.android.com/reference/android/arch/persistence/room/TypeConverter)
-[android.widget)(https://developer.android.com/reference/android/widget/package-summary)
+[Room persistance library](https://developer.android.com/topic/libraries/architecture/room) <br>
+[Paint class holds the style and color information about how to draw geometries, text and bitmaps](https://developer.android.com/reference/android/graphics/Paint) <br>
+[LayoutInflater](https://developer.android.com/reference/android/view/LayoutInflater) <br>
+[Handling Lifecycles with Lifecycle-Aware Components](https://developer.android.com/topic/libraries/architecture/lifecycle) <br>
+[Navigation Components](https://developer.android.com/guide/navigation/navigation-getting-started) <br>
+[TypeConverter](https://developer.android.com/reference/android/arch/persistence/room/TypeConverter) <br>
 
 ---
